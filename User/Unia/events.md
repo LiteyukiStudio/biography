@@ -6,7 +6,7 @@
   
 ## 2024.06.16
 
-- 在群内发送了一个音频文件 [嘟.wav](res/嘟.wav) 似乎是歌曲`ぐーぐー`的翻唱，其歌词[^3]如下：
+- 在群内发送了一个音频文件 [嘟(1).wav](resources/嘟(1).wav) 似乎是歌曲`ぐーぐー`的翻唱，其歌词[^3]如下：
   
 > やる気が出ない  
 > 没有干劲呢  
@@ -24,8 +24,8 @@
 
 
 
-[^1]: ![Cos照片](res/cospictures.png)
+[^1]: ![Cos照片](resources/cospictures.png)
 
-[^2]: ![小兔团](res/xiaotutuan.png)
+[^2]: ![小兔团](resources/xiaotutuan.png)
 
 [^3]: [歌词来源(网易云)](https://music.163.com/#/song?id=435948255)
