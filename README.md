@@ -3,6 +3,9 @@
 # liteyuki-biography
 
 记录 Liteyuki 群聊与 Minecraft 服务器内的各种有趣玩意。
+## 索引
+- [Arona_P](./Arona_P)
+- [RavenSenorita](./RavenSenorita)
 
 ## 注意事项
 
