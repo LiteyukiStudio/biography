@@ -22,18 +22,18 @@
 
 
 
-[^1]: [1](resource/Image_1719072215476.png)
+[^1]: ![1](resource/Image_1719072215476.png)
 
-[^2]: [2](resource/Image_1719072267167.png)
+[^2]: ![2](resource/Image_1719072267167.png)
 
-[^3]: [3](resource/Image_1719072235581.png)
+[^3]: ![3](resource/Image_1719072235581.png)
 
-[^4]: [4](resource/Image_1719072431105.png)
+[^4]: ![4](resource/Image_1719072431105.png)
 
-[^5]: [5](resource/Image_1719075342051.png)
+[^5]: ![5](resource/Image_1719075342051.png)
 
-[^6]: [6](resource/Image_1719075277935.png)
+[^6]: ![6](resource/Image_1719075277935.png)
 
-[^7]: [7](resource/Image_1719072056838.png)
+[^7]: ![7](resource/Image_1719072056838.png)
 
-[^8]: [8](resource/Image_1719075515931.png)
+[^8]: ![8](resource/Image_1719075515931.png)
