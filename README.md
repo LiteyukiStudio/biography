@@ -5,7 +5,10 @@
 记录 Liteyuki 群聊与 Minecraft 服务器内的各种有趣玩意。
 ## 索引
 - [Arona_P](./User/Arona_P)
+- [LuoChenXil_](./User/LuoChenXil_)
 - [RavenSenorita](./User/RavenSenorita)
+- [SF_Kami](./User/SF_Kami)
+- [“七濑Unia”](./User/Unia)
 
 ## 注意事项
 
