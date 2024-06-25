@@ -28,4 +28,4 @@
 
 [^2]: ![小兔团](res/xiaotutuan.png)
 
-[^3]: [音频来源(网易云)](https://music.163.com/#/song?id=435948255)
+[^3]: [歌词来源(网易云)](https://music.163.com/#/song?id=435948255)
