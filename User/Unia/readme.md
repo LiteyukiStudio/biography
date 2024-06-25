@@ -11,8 +11,8 @@
 
 - 自称[@小小的小兔团儿](https://space.bilibili.com/27897180)与[@七濑Unia](https://space.bilibili.com/353361863)都是自己[^4]。
 
-[^1]: ![小孩](res/child2.png)
-[^2]: ![小孩](res/child1.png)
-[^3]: ![](res/resource.png)
-[^4]: ![](res/2person.png)
-[^5]: ![](res/child3.png)
+[^1]: ![小孩](resources/child2.png)
+[^2]: ![小孩](resources/child1.png)
+[^3]: ![](resources/resource.png)
+[^4]: ![](resources/2person.png)
+[^5]: ![](resources/child3.png)
