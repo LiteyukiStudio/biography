@@ -1,6 +1,6 @@
 <style>.record-text {color: #3F1B00; font-weight: lighter;} </style>
 
-# liteyuki-biography
+# biography 轻雪人物志
 
 记录 Liteyuki 群聊与 Minecraft 服务器内的各种有趣玩意。
 ## 索引
